@@ -1,7 +1,7 @@
 {
   "title": "我的知识运用分享",
   "titleTemplate": "",
-  "welcomeText": "Tasker 是运行于 Android 系统上的一款自动化执行任务的辅助应用程序。",
+  "welcomeText": "Tasker 是运行于 Android 系统上的一款自动化执行任务的辅助应用程序。 它根据触发条件(应用程序、时间、日期、位置、事件、手势)，在用户定义的配置文件中或在可点击或计时器小部件中执行任务(多个操作的集合)。在不需要 ROOT 的条件下，用简单的方法实现对 Android 设备更多的控制和管理。 1 Tasker 应用发布于2009年，是一款伴随 Android 系统诞生的应用。自发布以来，Tasker 已历任三届作者，在每一次 Android 系统发布重大更新版本时，Tasker 都会及时跟进,添加并补充功能更新。",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
