@@ -14,7 +14,7 @@ const Pagination = () => import('@/components/commons/pagination.vue');
 
   head(): MetaInfo {
     return {
-      title: '我的知识运用分享',
+      title: 'Blog',
       meta: [
         {
           hid: 'description',
