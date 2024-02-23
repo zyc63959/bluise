@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Tasker",
+  "shortName": "Tasker",
+  "description": "Tasker 是运行于 Android 系统上的一款自动化执行任务的辅助应用程序。",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "zh"
 }
